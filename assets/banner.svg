@@ -15,10 +15,8 @@
     <animate attributeName="cy" values="135;155;135" dur="3.8s" repeatCount="indefinite"/>
   </circle>
 
-  <text x="400" y="102" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="3" fill="#DB2777">Lin</text>
-  <text x="400" y="102" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="3" fill="#2563EB">
-    <animate attributeName="fill" values="#2563EB;#7C3AED;#DB2777;#2563EB" dur="4s" repeatCount="indefinite"/>
-    <tspan dx="68">JJ12</tspan>
+  <text x="400" y="102" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="3">
+    <tspan fill="#DB2777">Lin</tspan><tspan fill="#2563EB">JJ12</tspan>
   </text>
 
   <rect x="310" y="128" width="180" height="4" rx="2" fill="#F472B6" opacity="0.7">
