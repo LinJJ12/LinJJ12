@@ -1,37 +1,31 @@
 Add-Type -AssemblyName System.Drawing
 
 $w = 800
-$h = 200
+$h = 160
 $out = Join-Path $PSScriptRoot "..\assets\banner.png"
 
 $bmp = New-Object System.Drawing.Bitmap $w, $h
 $g = [System.Drawing.Graphics]::FromImage($bmp)
 $g.SmoothingMode = [System.Drawing.Drawing2D.SmoothingMode]::AntiAlias
-$g.TextRenderingHint = [System.Drawing.Text.TextRenderingHint]::AntiAliasGridFit
 
-$bg = [System.Drawing.Color]::FromArgb(255, 255, 247, 237)
-$inner = [System.Drawing.Color]::FromArgb(255, 255, 251, 235)
+$bg = [System.Drawing.Color]::FromArgb(255, 243, 244, 246)
+$frame = [System.Drawing.Color]::FromArgb(255, 209, 213, 219)
+$inner = [System.Drawing.Color]::FromArgb(255, 250, 250, 250)
+$mist = [System.Drawing.Color]::FromArgb(60, 156, 163, 175)
+$silver = [System.Drawing.Color]::FromArgb(90, 148, 163, 184)
+$line = [System.Drawing.Color]::FromArgb(160, 107, 114, 128)
 
 $g.Clear($bg)
-$g.DrawRectangle([System.Drawing.Pens]::Orange, 1, 1, $w - 2, $h - 2)
-$g.FillRectangle([System.Drawing.Brushes]::LightYellow, 24, 24, $w - 48, $h - 48)
+$penFrame = New-Object System.Drawing.Pen $frame, 1
+$g.DrawRectangle($penFrame, 0, 0, $w - 1, $h - 1)
+$g.FillRectangle((New-Object System.Drawing.SolidBrush $inner), 20, 20, $w - 40, $h - 40)
+$g.DrawRectangle((New-Object System.Drawing.Pen $frame), 20, 20, $w - 40, $h - 40)
 
-$g.FillEllipse([System.Drawing.Brushes]::Pink, 80, 40, 44, 44)
-$g.FillEllipse([System.Drawing.Brushes]::LightSkyBlue, 650, 110, 56, 56)
-$g.FillEllipse([System.Drawing.Brushes]::LightGreen, 590, 35, 32, 32)
-$g.FillRectangle([System.Drawing.Brushes]::HotPink, 310, 145, 180, 4)
+$g.FillEllipse((New-Object System.Drawing.SolidBrush $mist), 60, 45, 70, 70)
+$g.FillEllipse((New-Object System.Drawing.SolidBrush $silver), 670, 55, 90, 90)
+$g.FillEllipse((New-Object System.Drawing.SolidBrush $mist), 620, 95, 36, 36)
 
-$font = [System.Drawing.Font]::new("Arial", 42, [System.Drawing.FontStyle]::Bold, [System.Drawing.GraphicsUnit]::Pixel)
-$brushPink = New-Object System.Drawing.SolidBrush ([System.Drawing.Color]::FromArgb(255, 219, 39, 119))
-$brushBlue = New-Object System.Drawing.SolidBrush ([System.Drawing.Color]::FromArgb(255, 37, 99, 235))
-
-$sizeLin = $g.MeasureString("Lin", $font)
-$sizeJJ = $g.MeasureString("JJ12", $font)
-$x = ($w - $sizeLin.Width - $sizeJJ.Width) / 2
-$y = 68
-
-$g.DrawString("Lin", $font, $brushPink, $x, $y)
-$g.DrawString("JJ12", $font, $brushBlue, $x + $sizeLin.Width, $y)
+$g.DrawLine((New-Object System.Drawing.Pen $line, 2), 280, 80, 520, 80)
 
 $bmp.Save($out, [System.Drawing.Imaging.ImageFormat]::Png)
 $g.Dispose()
