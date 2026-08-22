@@ -1,25 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 36" width="520" height="36">
-  <rect width="520" height="36" fill="#0d1117"/>
-  <text x="260" y="24" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#8b949e">
-    <tspan opacity="1">
-      <animate attributeName="opacity" values="1;1;0;0;0;1;1" dur="9s" repeatCount="indefinite"/>
-      code · refine · repeat
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 44" width="560" height="44">
+  <rect width="560" height="44" rx="12" fill="#ffffff" stroke="#e9d5ff" stroke-width="1"/>
+  <text x="280" y="28" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500">
+    <tspan fill="#ec4899" opacity="1">
+      <animate attributeName="opacity" values="1;1;0;0;0;1;1" dur="10s" repeatCount="indefinite"/>
+      ? create something beautiful
     </tspan>
   </text>
-  <text x="260" y="24" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#8b949e">
-    <tspan opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0;0" dur="9s" repeatCount="indefinite"/>
-      build in public
+  <text x="280" y="28" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500">
+    <tspan fill="#3b82f6" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0;0" dur="10s" repeatCount="indefinite"/>
+      ? keep learning, keep building
     </tspan>
   </text>
-  <text x="260" y="24" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#8b949e">
-    <tspan opacity="0">
-      <animate attributeName="opacity" values="0;0;0;0;1;1;0" dur="9s" repeatCount="indefinite"/>
-      stay curious
+  <text x="280" y="28" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500">
+    <tspan fill="#8b5cf6" opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0" dur="10s" repeatCount="indefinite"/>
+      ? ideas into reality
     </tspan>
   </text>
-  <text x="390" y="24" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#58a6ff">
+  <text x="470" y="28" font-family="Consolas, monospace" font-size="16" fill="#f472b6">
     <animate attributeName="opacity" values="1;0;1;0;1;0;1" dur="1s" repeatCount="indefinite"/>
-    _
+    |
   </text>
 </svg>

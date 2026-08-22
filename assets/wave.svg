@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 48" width="800" height="48">
+  <defs>
+    <linearGradient id="w1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fda4af" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#60a5fa" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#c4b5fd" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c4b5fd" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fb7185" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#67e8f9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,24 C100,8 200,36 300,24 C400,12 500,36 600,24 C700,12 800,28 800,24" fill="none" stroke="url(#w1)" stroke-width="3" stroke-linecap="round">
+    <animate attributeName="d"
+      values="M0,24 C100,8 200,36 300,24 C400,12 500,36 600,24 C700,12 800,28 800,24;
+              M0,24 C100,36 200,10 300,24 C400,38 500,10 600,24 C700,38 800,18 800,24;
+              M0,24 C100,8 200,36 300,24 C400,12 500,36 600,24 C700,12 800,28 800,24"
+      dur="5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,30 C120,18 240,40 360,30 C480,18 600,40 720,30 C760,28 790,32 800,30" fill="none" stroke="url(#w2)" stroke-width="2" stroke-linecap="round" opacity="0.8">
+    <animate attributeName="d"
+      values="M0,30 C120,18 240,40 360,30 C480,18 600,40 720,30 C760,28 790,32 800,30;
+              M0,30 C120,42 240,16 360,30 C480,42 600,16 720,30 C760,32 790,28 800,30;
+              M0,30 C120,18 240,40 360,30 C480,18 600,40 720,30 C760,28 790,32 800,30"
+      dur="4s" repeatCount="indefinite"/>
+  </path>
+</svg>
