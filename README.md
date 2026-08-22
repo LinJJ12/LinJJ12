@@ -107,9 +107,9 @@
 <!-- github-activity-readme - JamesGeorge007 / GitHub Actions 分类 -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [RAG-based-wiki_cn-intelligent-question-answering-system](https://github.com/LinJJ12/RAG-based-wiki_cn-intelligent-question-answering-system)
-2. ⭐ Starred [langfuse](https://github.com/langfuse/langfuse)
-3. 🔧 Opened issue in [Hello-Travel](https://github.com/LinJJ12/Hello-Travel)
+1. ℹ️ Labeled issue [#2](https://github.com/Acrelate/RAF-DB-Based-Facial-Emotion-Recognition-System/issues/2) in [Acrelate/RAF-DB-Based-Facial-Emotion-Recognition-System](https://github.com/Acrelate/RAF-DB-Based-Facial-Emotion-Recognition-System)
+2. ℹ️ Assigned issue [#2](https://github.com/Acrelate/RAF-DB-Based-Facial-Emotion-Recognition-System/issues/2) in [Acrelate/RAF-DB-Based-Facial-Emotion-Recognition-System](https://github.com/Acrelate/RAF-DB-Based-Facial-Emotion-Recognition-System)
+3. ❗ Opened issue [#2](https://github.com/Acrelate/RAF-DB-Based-Facial-Emotion-Recognition-System/issues/2) in [Acrelate/RAF-DB-Based-Facial-Emotion-Recognition-System](https://github.com/Acrelate/RAF-DB-Based-Facial-Emotion-Recognition-System)
 <!--END_SECTION:activity-->
 
 ---
