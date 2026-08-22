@@ -1,25 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 44" width="560" height="44">
-  <rect width="560" height="44" rx="12" fill="#ffffff" stroke="#e9d5ff" stroke-width="1"/>
-  <text x="280" y="28" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500">
-    <tspan fill="#ec4899" opacity="1">
-      <animate attributeName="opacity" values="1;1;0;0;0;1;1" dur="10s" repeatCount="indefinite"/>
-      ? create something beautiful
-    </tspan>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 48" width="560" height="48">
+  <rect width="560" height="48" rx="14" fill="#FFFBEB" stroke="#FCD34D" stroke-width="1.5"/>
+
+  <text x="280" y="30" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#DB2777" opacity="1">
+    <animate attributeName="opacity" values="1;1;0;0;0;1;1" dur="9s" repeatCount="indefinite"/>
+    ? ???????
   </text>
-  <text x="280" y="28" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500">
-    <tspan fill="#3b82f6" opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0;0" dur="10s" repeatCount="indefinite"/>
-      ? keep learning, keep building
-    </tspan>
+  <text x="280" y="30" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#2563EB" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0;0" dur="9s" repeatCount="indefinite"/>
+    ? ?????????
   </text>
-  <text x="280" y="28" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500">
-    <tspan fill="#8b5cf6" opacity="0">
-      <animate attributeName="opacity" values="0;0;0;0;1;1;0" dur="10s" repeatCount="indefinite"/>
-      ? ideas into reality
-    </tspan>
-  </text>
-  <text x="470" y="28" font-family="Consolas, monospace" font-size="16" fill="#f472b6">
-    <animate attributeName="opacity" values="1;0;1;0;1;0;1" dur="1s" repeatCount="indefinite"/>
-    |
+  <text x="280" y="30" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#7C3AED" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0;1;1;0" dur="9s" repeatCount="indefinite"/>
+    ? ???????
   </text>
 </svg>
