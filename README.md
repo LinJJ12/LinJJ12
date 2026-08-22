@@ -1,0 +1,206 @@
+<!--
+  参考 awesome-github-profile-readme 分类与工具集：
+  https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
+  Typing Mode      → readme-typing-svg (DenverCoder1)
+  Dynamic Realtime → github-readme-stats / streak-stats / activity-graph
+  GitHub Actions   → Platane/snk / github-activity-readme
+  Badges           → shields.io / skillicons.dev
+  Tools            → profile-trophy / readme-quotes / readme-jokes / visitor-badge
+-->
+
+<div align="center">
+
+  <!-- Visitor Badge - awesome-github-profile-readme Tools -->
+  <img src="https://komarev.com/ghpvc/?username=LinJJ12&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
+
+  <br/><br/>
+
+  <!-- Header - capsule-render -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,24,30&height=180&section=header&text=LinJJ12&fontSize=42&fontAlignY=35&desc=集美大学%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" alt="header"/>
+
+  <!-- Typing Mode - readme-typing-svg -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=你好，我是+Linjj+%F0%9F%91%8B;热爱+AI+%E4%B8%8E+LLM+应用开发;探索+RAG+%C2%B7+Agent+%C2%B7+全栈工程;Building+intelligent+systems+with+Python+%26+Vue" alt="typing intro"/>
+  </a>
+
+  <br/>
+
+  <!-- Social Links - shields.io -->
+  <a href="https://github.com/LinJJ12">
+    <img src="https://img.shields.io/badge/GitHub-LinJJ12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://LinJJ12.github.io">
+    <img src="https://img.shields.io/badge/Blog-LinJJ12.github.io-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="mailto:202341084082@jmu.edu.cn">
+    <img src="https://img.shields.io/badge/Email-202341084082%40jmu.edu.cn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-集美大学-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+
+</div>
+
+---
+
+## 👋 关于我
+
+我是 **Linjj**，就读于 **集美大学**，一名对 **人工智能** 与 **软件工程** 充满热情的全栈开发者。
+
+我热衷于将大模型能力落地到真实场景——从 **RAG 问答系统**、**AI Agent 工作流**，到 **计算机视觉** 与 **数据可视化** 项目。我相信好的代码不仅要能跑起来，还要 **可读、可维护、对用户有用**。
+
+```text
+  🔭 当前关注  LLM 应用工程 · RAG · Agent
+  🌱 持续学习  Prompt Engineering · 模型评测 · 全栈开发
+  💡 喜欢动手  把想法从 Notebook 变成可部署的 Web 应用
+  📫 欢迎交流  202341084082@jmu.edu.cn
+```
+
+---
+
+## 🛠️ 技术栈
+
+<!-- skillicons.dev - awesome-github-profile-readme Tools -->
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,vue,flask,fastapi,docker,git,linux,html,css,sqlite,nodejs&perline=7" alt="Tech Stack"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+
+</div>
+
+---
+
+## 📊 GitHub 统计
+
+<div align="center">
+
+  <!-- github-readme-stats - Anurag Hazra -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LinJJ12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinJJ12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+
+  <br/>
+
+  <!-- github-readme-streak-stats - DenverCoder1 -->
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=LinJJ12&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+
+  <br/><br/>
+
+  <!-- github-profile-trophy - ryo-ma -->
+  <img src="https://github-profile-trophy.vercel.app/?username=LinJJ12&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
+
+</div>
+
+> 注：Top Languages 仅反映公开仓库中的语言占比，不代表实际技能水平。
+
+---
+
+## 📌 置顶项目
+
+<!-- github-readme-stats pin - 参考 Anurag Hazra / Dynamic Realtime 分类 -->
+
+<div align="center">
+
+  <a href="https://github.com/LinJJ12/RAG-based-wiki_cn-intelligent-question-answering-system">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LinJJ12&repo=RAG-based-wiki_cn-intelligent-question-answering-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="RAG Wiki-CN"/>
+  </a>
+  <a href="https://github.com/LinJJ12/yuqing">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LinJJ12&repo=yuqing&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="yuqing"/>
+  </a>
+  <a href="https://github.com/LinJJ12/RAF-DB-Based-Facial-Emotion-Recognition-System">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LinJJ12&repo=RAF-DB-Based-Facial-Emotion-Recognition-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Facial Emotion Recognition"/>
+  </a>
+  <a href="https://github.com/LinJJ12/Hello-Travel">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LinJJ12&repo=Hello-Travel&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Hello-Travel"/>
+  </a>
+
+</div>
+
+---
+
+## 🚀 更多项目
+
+| 项目 | 简介 | 技术 |
+| --- | --- | --- |
+| [**光伏电站选址系统**](https://github.com/LinJJ12/pv-site-prediction-dashboard) | 3D 地图 + GAT+GBDT 全国光伏选址可视化 | `Vue` `GAT` `GBDT` |
+| [**XianyuAutoAgent**](https://github.com/LinJJ12/XianyuAutoAgent) | 面向闲鱼平台的智能客服机器人 | `Python` `Agent` |
+| [**semi-auto-writer-agent**](https://github.com/LinJJ12/semi-auto-writer-agent) | 公众号创作者半自动智能体工作台 | `TypeScript` `Agent` |
+| [**hello-travel-agent**](https://github.com/LinJJ12/hello-travel-agent) | 智能旅行规划 Agent（Python 版） | `Python` `LLM` |
+
+<details>
+  <summary>📂 展开查看更多</summary>
+
+  <br/>
+
+  - [digit_recognition_flask](https://github.com/LinJJ12/digit_recognition_flask) — 数字手写体识别学习项目
+  - [pet-adoption-platform](https://github.com/LinJJ12/pet-adoption-platform) — 轻量级宠物领养演示平台
+  - [herlev-cervical-cancer-7-class](https://github.com/LinJJ12/herlev-cervical-cancer-7-class) — 宫颈细胞 7 分类实验
+  - [Light-Painting-Newton-s-Rings](https://github.com/LinJJ12/Light-Painting-Newton-s-Rings) — 牛顿环干涉现象教学工具
+
+</details>
+
+---
+
+## ⚡ 最近 GitHub 动态
+
+<!-- github-activity-readme - JamesGeorge007 / GitHub Actions 分类 -->
+
+<!--START_SECTION:activity-->
+1. 🚀 Pushed to [RAG-based-wiki_cn-intelligent-question-answering-system](https://github.com/LinJJ12/RAG-based-wiki_cn-intelligent-question-answering-system)
+2. ⭐ Starred [langfuse](https://github.com/langfuse/langfuse)
+3. 🔧 Opened issue in [Hello-Travel](https://github.com/LinJJ12/Hello-Travel)
+<!--END_SECTION:activity-->
+
+---
+
+## 📈 贡献活动
+
+<div align="center">
+
+  <!-- github-readme-activity-graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LinJJ12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=30363D&point=FF7B72&area=true" alt="Contribution Graph"/>
+
+  <br/>
+
+  <!-- Platane/snk - Game Mode 分类常见玩法 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LinJJ12/LinJJ12/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LinJJ12/LinJJ12/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LinJJ12/LinJJ12/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+
+</div>
+
+---
+
+## 💬 随机语录 & 冷笑话
+
+<div align="center">
+
+  <!-- GitHub Readme Quotes - PiyushSuthar -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
+
+  <br/><br/>
+
+  <!-- README Jokes - DenverCoder1 -->
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&q=QID=ProgrammingPun" alt="Random Dev Joke"/>
+
+</div>
+
+---
+
+<div align="center">
+
+  **感谢来访！如果某个项目对你有帮助，欢迎 Star ⭐**
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,24,30&height=100&section=footer" alt="footer"/>
+
+</div>

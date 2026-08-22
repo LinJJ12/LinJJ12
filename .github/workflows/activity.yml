@@ -1,0 +1,22 @@
+# github-activity-readme
+# https://github.com/jamesgeorge007/github-activity-readme
+# awesome-github-profile-readme → GitHub Actions 分类
+
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: jamesgeorge007/github-activity-readme@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
