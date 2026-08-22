@@ -6,7 +6,7 @@ on:
     - cron: "0 0 * * *"
 
 concurrency:
-  group: snake-output
+  group: snake-update
   cancel-in-progress: false
 
 jobs:
@@ -26,10 +26,14 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: push snake svg to output branch
-        uses: peaceiris/actions-gh-pages@v4
+      - name: copy snake svg to assets
+        run: |
+          mkdir -p assets
+          cp dist/github-contribution-grid-snake.svg assets/
+          cp dist/github-contribution-grid-snake-dark.svg assets/
+
+      - name: commit snake svg to main branch
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          commit_message: "update snake animation"
+          commit_message: "更新贪吃蛇贡献动画"
+          file_pattern: assets/github-contribution-grid-snake*.svg
