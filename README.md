@@ -16,13 +16,9 @@
 
   <br/><br/>
 
-  <!-- Header - capsule-render -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,24,30&height=180&section=header&text=LinJJ12&fontSize=42&fontAlignY=35&desc=集美大学%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" alt="header"/>
+  ### Hi, I'm Linjj 👋
 
-  <!-- Typing Mode - readme-typing-svg -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=你好，我是+Linjj+%F0%9F%91%8B;热爱+AI+%E4%B8%8E+LLM+应用开发;探索+RAG+%C2%B7+Agent+%C2%B7+全栈工程;Building+intelligent+systems+with+Python+%26+Vue" alt="typing intro"/>
-  </a>
+  **集美大学** · AI & Full-Stack Developer
 
   <br/>
 
@@ -79,57 +75,14 @@
 
 ---
 
-## 📊 GitHub 统计
-
-<div align="center">
-
-  <!-- github-readme-stats - Anurag Hazra -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LinJJ12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinJJ12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-
-  <br/>
-
-  <!-- github-readme-streak-stats - DenverCoder1 -->
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=LinJJ12&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-
-  <br/><br/>
-
-  <!-- github-profile-trophy - ryo-ma -->
-  <img src="https://github-profile-trophy.vercel.app/?username=LinJJ12&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
-
-</div>
-
-> 注：Top Languages 仅反映公开仓库中的语言占比，不代表实际技能水平。
-
----
-
-## 📌 置顶项目
-
-<!-- github-readme-stats pin - 参考 Anurag Hazra / Dynamic Realtime 分类 -->
-
-<div align="center">
-
-  <a href="https://github.com/LinJJ12/RAG-based-wiki_cn-intelligent-question-answering-system">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LinJJ12&repo=RAG-based-wiki_cn-intelligent-question-answering-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="RAG Wiki-CN"/>
-  </a>
-  <a href="https://github.com/LinJJ12/yuqing">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LinJJ12&repo=yuqing&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="yuqing"/>
-  </a>
-  <a href="https://github.com/LinJJ12/RAF-DB-Based-Facial-Emotion-Recognition-System">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LinJJ12&repo=RAF-DB-Based-Facial-Emotion-Recognition-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Facial Emotion Recognition"/>
-  </a>
-  <a href="https://github.com/LinJJ12/Hello-Travel">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LinJJ12&repo=Hello-Travel&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Hello-Travel"/>
-  </a>
-
-</div>
-
----
-
-## 🚀 更多项目
+## 🚀 精选项目
 
 | 项目 | 简介 | 技术 |
 | --- | --- | --- |
+| [**RAG Wiki-CN 问答系统**](https://github.com/LinJJ12/RAG-based-wiki_cn-intelligent-question-answering-system) | 基于 Wiki-CN 的混合检索 RAG 问答，支持 BM25 + BGE-M3 + Reranker | `Python` `RAG` `Flask` |
+| [**知微 · 舆情分析**](https://github.com/LinJJ12/yuqing) | 社交媒体观众反馈 / 内容口碑分析本地工作台 | `Python` `Vue` `GPU` |
+| [**人脸表情识别系统**](https://github.com/LinJJ12/RAF-DB-Based-Facial-Emotion-Recognition-System) | 端到端表情识别：训练、导出、Web 可视化分析 | `Vue` `PyTorch` |
+| [**Hello-Travel**](https://github.com/LinJJ12/Hello-Travel) | AI 智能旅行规划助手，支持行程伴游与 PDF 导出 | `Vue` `LLM` `Agent` |
 | [**光伏电站选址系统**](https://github.com/LinJJ12/pv-site-prediction-dashboard) | 3D 地图 + GAT+GBDT 全国光伏选址可视化 | `Vue` `GAT` `GBDT` |
 | [**XianyuAutoAgent**](https://github.com/LinJJ12/XianyuAutoAgent) | 面向闲鱼平台的智能客服机器人 | `Python` `Agent` |
 | [**semi-auto-writer-agent**](https://github.com/LinJJ12/semi-auto-writer-agent) | 公众号创作者半自动智能体工作台 | `TypeScript` `Agent` |
@@ -200,7 +153,5 @@
 <div align="center">
 
   **感谢来访！如果某个项目对你有帮助，欢迎 Star ⭐**
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,24,30&height=100&section=footer" alt="footer"/>
 
 </div>
