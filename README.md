@@ -5,7 +5,7 @@
   <br/><br/>
 
   <!--QUOTE_START-->
-  > 我们不是因为看到希望才坚持，而是因为坚持才看到希望。
+  > Done is better than perfect.
   <!--QUOTE_END-->
 
 </div>
