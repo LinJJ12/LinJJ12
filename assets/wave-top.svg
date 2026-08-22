@@ -1,23 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 56" width="720" height="56">
-  <path d="M0,36 C90,20 180,48 270,36 C360,24 450,48 540,36 C630,24 690,32 720,36" fill="none" stroke="#CBD5E1" stroke-width="2.5" stroke-linecap="round">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 64" width="720" height="64">
+  <path d="M0,40 C90,22 180,52 270,40 C360,28 450,52 540,40 C630,28 690,36 720,40" fill="none" stroke="#F472B6" stroke-width="3" stroke-linecap="round" opacity="0.9">
     <animate attributeName="d"
-      values="M0,36 C90,20 180,48 270,36 C360,24 450,48 540,36 C630,24 690,32 720,36;
-              M0,36 C90,48 180,22 270,36 C360,48 450,22 540,36 C630,48 690,40 720,36;
-              M0,36 C90,20 180,48 270,36 C360,24 450,48 540,36 C630,24 690,32 720,36"
+      values="M0,40 C90,22 180,52 270,40 C360,28 450,52 540,40 C630,28 690,36 720,40;
+              M0,40 C90,52 180,26 270,40 C360,52 450,26 540,40 C630,52 690,44 720,40;
+              M0,40 C90,22 180,52 270,40 C360,28 450,52 540,40 C630,28 690,36 720,40"
       dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="stroke" values="#F472B6;#FB7185;#F472B6" dur="4s" repeatCount="indefinite"/>
   </path>
-  <path d="M0,28 C100,14 200,42 300,28 C400,14 500,42 600,28 C660,22 700,26 720,28" fill="none" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" opacity="0.75">
+  <path d="M0,30 C100,14 200,46 300,30 C400,14 500,46 600,30 C660,22 700,26 720,30" fill="none" stroke="#60A5FA" stroke-width="2.5" stroke-linecap="round" opacity="0.85">
     <animate attributeName="d"
-      values="M0,28 C100,14 200,42 300,28 C400,14 500,42 600,28 C660,22 700,26 720,28;
-              M0,28 C100,42 200,14 300,28 C400,42 500,14 600,28 C660,34 700,30 720,28;
-              M0,28 C100,14 200,42 300,28 C400,14 500,42 600,28 C660,22 700,26 720,28"
+      values="M0,30 C100,14 200,46 300,30 C400,14 500,46 600,30 C660,22 700,26 720,30;
+              M0,30 C100,46 200,14 300,30 C400,46 500,14 600,30 C660,38 700,34 720,30;
+              M0,30 C100,14 200,46 300,30 C400,14 500,46 600,30 C660,22 700,26 720,30"
       dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke" values="#60A5FA;#38BDF8;#60A5FA" dur="5s" repeatCount="indefinite"/>
   </path>
-  <path d="M0,44 C80,34 160,52 240,44 C320,36 400,52 480,44 C560,36 640,52 720,44" fill="none" stroke="#B8C5D6" stroke-width="1.5" stroke-linecap="round" opacity="0.6">
+  <path d="M0,48 C80,36 160,56 240,48 C320,40 400,56 480,48 C560,40 640,56 720,48" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" opacity="0.8">
     <animate attributeName="d"
-      values="M0,44 C80,34 160,52 240,44 C320,36 400,52 480,44 C560,36 640,52 720,44;
-              M0,44 C80,52 160,34 240,44 C320,52 400,34 480,44 C560,52 640,34 720,44;
-              M0,44 C80,34 160,52 240,44 C320,36 400,52 480,44 C560,36 640,52 720,44"
+      values="M0,48 C80,36 160,56 240,48 C320,40 400,56 480,48 C560,40 640,56 720,48;
+              M0,48 C80,56 160,38 240,48 C320,56 400,38 480,48 C560,56 640,38 720,48;
+              M0,48 C80,36 160,56 240,48 C320,40 400,56 480,48 C560,40 640,56 720,48"
       dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="stroke" values="#A78BFA;#C084FC;#A78BFA" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,22 C120,10 240,34 360,22 C480,10 600,34 720,22" fill="none" stroke="#34D399" stroke-width="2" stroke-linecap="round" opacity="0.75">
+    <animate attributeName="d"
+      values="M0,22 C120,10 240,34 360,22 C480,10 600,34 720,22;
+              M0,22 C120,34 240,10 360,22 C480,34 600,10 720,22;
+              M0,22 C120,10 240,34 360,22 C480,10 600,34 720,22"
+      dur="5.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke" values="#34D399;#2DD4BF;#34D399" dur="4.5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,54 C140,44 280,58 420,54 C560,50 640,58 720,54" fill="none" stroke="#FB923C" stroke-width="1.5" stroke-linecap="round" opacity="0.7">
+    <animate attributeName="d"
+      values="M0,54 C140,44 280,58 420,54 C560,50 640,58 720,54;
+              M0,54 C140,58 280,44 420,54 C560,58 640,44 720,54;
+              M0,54 C140,44 280,58 420,54 C560,50 640,58 720,54"
+      dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke" values="#FB923C;#FBBF24;#FB923C" dur="5.5s" repeatCount="indefinite"/>
   </path>
 </svg>

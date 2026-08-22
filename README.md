@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/LinJJ12/LinJJ12/main/assets/wave-top.svg?v=1" width="720" alt=""/>
+  <img src="https://raw.githubusercontent.com/LinJJ12/LinJJ12/main/assets/wave-top.svg?v=2" width="720" alt=""/>
 
   <br/><br/>
 
@@ -10,6 +10,6 @@
 
   <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/LinJJ12/LinJJ12/main/assets/wave-bottom.svg?v=1" width="720" alt=""/>
+  <img src="https://raw.githubusercontent.com/LinJJ12/LinJJ12/main/assets/wave-bottom.svg?v=2" width="720" alt=""/>
 
 </div>
