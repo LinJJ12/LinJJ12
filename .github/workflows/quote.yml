@@ -18,14 +18,16 @@ jobs:
           quotes=(
             "> 知之者不如好之者，好之者不如乐之者。 — 孔子"
             "> 我们不是因为看到希望才坚持，而是因为坚持才看到希望。"
-            "> The best way to predict the future is to invent it. — Alan Kay"
-            "> 代码是写给人看的，只是顺便让机器执行。"
-            "> Simplicity is the ultimate sophistication. — Leonardo da Vinci"
-            "> 路漫漫其修远兮，吾将上下而求索。 — 屈原"
-            "> Stay hungry, stay foolish. — Steve Jobs"
             "> 凡是过往，皆为序章。"
-            "> Done is better than perfect."
+            "> 路漫漫其修远兮，吾将上下而求索。 — 屈原"
             "> 博观而约取，厚积而薄发。 — 苏轼"
+            "> 海到无边天作岸，山登绝顶我为峰。"
+            "> 代码是写给人看的，只是顺便让机器执行。"
+            "> The best way to predict the future is to invent it. — Alan Kay"
+            "> Simplicity is the ultimate sophistication. — Leonardo da Vinci"
+            "> Stay hungry, stay foolish. — Steve Jobs"
+            "> Done is better than perfect."
+            "> 星光不问赶路人，时光不负有心人。"
           )
           idx=$((RANDOM % ${#quotes[@]}))
           quote="${quotes[$idx]}"

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 56" width="720" height="56">
+  <path d="M0,36 C90,20 180,48 270,36 C360,24 450,48 540,36 C630,24 690,32 720,36" fill="none" stroke="#CBD5E1" stroke-width="2.5" stroke-linecap="round">
+    <animate attributeName="d"
+      values="M0,36 C90,20 180,48 270,36 C360,24 450,48 540,36 C630,24 690,32 720,36;
+              M0,36 C90,48 180,22 270,36 C360,48 450,22 540,36 C630,48 690,40 720,36;
+              M0,36 C90,20 180,48 270,36 C360,24 450,48 540,36 C630,24 690,32 720,36"
+      dur="6s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,28 C100,14 200,42 300,28 C400,14 500,42 600,28 C660,22 700,26 720,28" fill="none" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" opacity="0.75">
+    <animate attributeName="d"
+      values="M0,28 C100,14 200,42 300,28 C400,14 500,42 600,28 C660,22 700,26 720,28;
+              M0,28 C100,42 200,14 300,28 C400,42 500,14 600,28 C660,34 700,30 720,28;
+              M0,28 C100,14 200,42 300,28 C400,14 500,42 600,28 C660,22 700,26 720,28"
+      dur="5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,44 C80,34 160,52 240,44 C320,36 400,52 480,44 C560,36 640,52 720,44" fill="none" stroke="#B8C5D6" stroke-width="1.5" stroke-linecap="round" opacity="0.6">
+    <animate attributeName="d"
+      values="M0,44 C80,34 160,52 240,44 C320,36 400,52 480,44 C560,36 640,52 720,44;
+              M0,44 C80,52 160,34 240,44 C320,52 400,34 480,44 C560,52 640,34 720,44;
+              M0,44 C80,34 160,52 240,44 C320,36 400,52 480,44 C560,36 640,52 720,44"
+      dur="7s" repeatCount="indefinite"/>
+  </path>
+</svg>
