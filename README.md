@@ -90,25 +90,36 @@
 ## GitHub 数据
 
 <p align="center">
-  <sub>贡献图与统计卡片主要反映近 12 个月的公开活动，不代表账号创建时间</sub>
+  <sub>
+    账号创建于 2024-10-14 · 下方贡献图 / Streak / 统计均基于 GitHub 公开 API（贡献图默认近 12 个月）
+  </sub>
+</p>
+
+<p align="center">
+  <img alt="Repos" src="https://img.shields.io/badge/Repos-2024--10--14-0f172a?style=flat-square" />
+  <img alt="Public Repos" src="https://img.shields.io/badge/Public%20Repos-18-1d4ed8?style=flat-square" />
+  <img alt="Stars" src="https://img.shields.io/badge/Total%20Stars-3-14b8a6?style=flat-square" />
+  <img alt="Followers" src="https://img.shields.io/badge/Followers-10-64748b?style=flat-square" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="./assets/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="./assets/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinJJ12&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinJJ12&theme=default" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinJJ12&amp;theme=default" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinJJ12&amp;theme=default" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=LinJJ12&theme=default&hide_border=true&background=FFFFFF&ring=1D4ED8&fire=14B8A6&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=1D4ED8&sideLabels=64748B&dates=64748B" alt="GitHub Streak" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LinJJ12&theme=default&utcOffset=8" alt="Productive time" />
+  <a href="https://git.io/streak-stats">
+    <img height="165" src="https://streak-stats.demolab.com/?user=LinJJ12&amp;theme=default&amp;hide_border=true" alt="GitHub Streak" />
+  </a>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LinJJ12&amp;theme=default&amp;utcOffset=8" alt="Productive time" />
 </p>
 
 ## 联系我
