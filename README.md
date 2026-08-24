@@ -89,11 +89,13 @@
 
 ## GitHub 数据
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LinJJ12/LinJJ12@main/assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LinJJ12/LinJJ12@main/assets/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://cdn.jsdelivr.net/gh/LinJJ12/LinJJ12@main/assets/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="./assets/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinJJ12&theme=github_dark" alt="GitHub stats" />
