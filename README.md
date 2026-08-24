@@ -90,6 +90,10 @@
 ## GitHub 数据
 
 <p align="center">
+  <sub>贡献图与统计卡片主要反映近 12 个月的公开活动，不代表账号创建时间</sub>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
@@ -98,17 +102,13 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinJJ12&theme=github_dark" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinJJ12&theme=github_dark" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinJJ12&theme=default" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinJJ12&theme=default" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LinJJ12&theme=github_dark" alt="Most commit language" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LinJJ12&theme=github_dark&utcOffset=8" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinJJ12&theme=transparent" alt="GitHub profile summary" />
+  <img height="165" src="https://streak-stats.demolab.com?user=LinJJ12&theme=default&hide_border=true&background=FFFFFF&ring=1D4ED8&fire=14B8A6&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=1D4ED8&sideLabels=64748B&dates=64748B" alt="GitHub Streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LinJJ12&theme=default&utcOffset=8" alt="Productive time" />
 </p>
 
 ## 联系我
