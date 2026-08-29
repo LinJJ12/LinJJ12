@@ -7,7 +7,7 @@
 <br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LinJJ12&style=for-the-badge&color=0f172a)
-[![Email](https://img.shields.io/badge/Email-202341084082%40jmu.edu.cn-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:202341084082@jmu.edu.cn)
+[![Email](https://img.shields.io/badge/Email-3222691763%40qq.com-12B7F5?style=for-the-badge&logo=qq&logoColor=white)](mailto:3222691763@qq.com)
 [![Blog](https://img.shields.io/badge/Blog-LinJJ12.github.io-14B8A6?style=for-the-badge&logo=blogger&logoColor=white)](https://LinJJ12.github.io)
 
 </div>
@@ -20,7 +20,7 @@
 
 专注 LLM 应用、检索增强生成（RAG）与智能体（Agent）方向，习惯将实验原型落地为可运行的 Web 应用。
 
-> 把想法跑通，把系统做稳，让技术回到解决真实的问题上。
+<i>把想法跑通，把系统做稳，让技术回到解决真实的问题上。</i>
 
 </div>
 
@@ -67,7 +67,11 @@
 </p>
 
 <p align="center">
-  <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=LinJJ12&amp;theme=github_dark&amp;graph=true&amp;languages=true&amp;streak=true&amp;stats=true&amp;header=true&amp;summary=true&amp;profile=true" alt="GitHub Insights" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://git-hub-insights-virid.vercel.app/api/insight?username=LinJJ12&amp;theme=github_dark&amp;graph=true&amp;languages=true&amp;streak=true&amp;stats=true&amp;header=true&amp;summary=true&amp;profile=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://git-hub-insights-virid.vercel.app/api/insight?username=LinJJ12&amp;theme=github_light&amp;graph=true&amp;languages=true&amp;streak=true&amp;stats=true&amp;header=true&amp;summary=true&amp;profile=true" />
+    <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=LinJJ12&amp;theme=github_dark&amp;graph=true&amp;languages=true&amp;streak=true&amp;stats=true&amp;header=true&amp;summary=true&amp;profile=true" alt="GitHub Insights" />
+  </picture>
 </p>
 
 <p align="center">
@@ -81,8 +85,8 @@
 ## 联系我
 
 <p align="center">
-  <a href="mailto:202341084082@jmu.edu.cn">
-    <img src="https://img.shields.io/badge/Email-202341084082%40jmu.edu.cn-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:3222691763@qq.com">
+    <img src="https://img.shields.io/badge/Email-3222691763%40qq.com-12B7F5?style=for-the-badge&logo=qq&logoColor=white" alt="Email" />
   </a>
   <a href="https://LinJJ12.github.io">
     <img src="https://img.shields.io/badge/Blog-LinJJ12.github.io-14B8A6?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
