@@ -58,37 +58,6 @@
   </tr>
 </table>
 
-## 项目 / 练习
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/LinJJ12/RAG-based-wiki_cn-intelligent-question-answering-system">RAG Wiki-CN</a></h3>
-      <p>基于 Wiki-CN 的混合检索 RAG 问答系统，支持 BM25 + 向量检索 + Reranker。</p>
-      <p>
-        <img src="https://img.shields.io/badge/RAG-0f172a?style=flat-square" alt="RAG" />
-        <img src="https://img.shields.io/badge/Flask-1d4ed8?style=flat-square" alt="Flask" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/LinJJ12/yuqing">知微 · 舆情分析</a></h3>
-      <p>社交媒体观众反馈 / 内容口碑分析本地工作台。</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square" alt="Python" />
-        <img src="https://img.shields.io/badge/Vue-334155?style=flat-square" alt="Vue" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/LinJJ12/RAF-DB-Based-Facial-Emotion-Recognition-System">表情识别系统</a></h3>
-      <p>端到端人脸表情识别：训练、导出与 Web 可视化分析。</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-0f172a?style=flat-square" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/Vue-0f766e?style=flat-square" alt="Vue" />
-      </p>
-    </td>
-  </tr>
-</table>
-
 ## GitHub 数据
 
 <p align="center">
