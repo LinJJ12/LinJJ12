@@ -20,6 +20,8 @@
 
 专注 LLM 应用、检索增强生成（RAG）与智能体（Agent）方向，习惯将实验原型落地为可运行的 Web 应用。
 
+> 把想法跑通，把系统做稳，让技术回到解决真实的问题上。
+
 </div>
 
 ## 技术方向
@@ -91,15 +93,12 @@
 
 <p align="center">
   <sub>
-    账号创建于 2024-10-14 · 下方贡献图 / Streak / 统计均基于 GitHub 公开 API（贡献图默认近 12 个月）
+    账号创建于 2024-10-14 · 下方数据卡片与贡献图均基于 GitHub 公开 API 实时生成
   </sub>
 </p>
 
 <p align="center">
-  <img alt="Repos" src="https://img.shields.io/badge/Repos-2024--10--14-0f172a?style=flat-square" />
-  <img alt="Public Repos" src="https://img.shields.io/badge/Public%20Repos-18-1d4ed8?style=flat-square" />
-  <img alt="Stars" src="https://img.shields.io/badge/Total%20Stars-3-14b8a6?style=flat-square" />
-  <img alt="Followers" src="https://img.shields.io/badge/Followers-10-64748b?style=flat-square" />
+  <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=LinJJ12&amp;theme=github_dark&amp;graph=true&amp;languages=true&amp;streak=true&amp;stats=true&amp;header=true&amp;summary=true&amp;profile=true" alt="GitHub Insights" />
 </p>
 
 <p align="center">
@@ -108,18 +107,6 @@
     <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
     <img alt="GitHub contribution snake animation" src="./assets/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinJJ12&amp;theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinJJ12&amp;theme=default" alt="Top languages" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img height="165" src="https://streak-stats.demolab.com/?user=LinJJ12&amp;theme=default&amp;hide_border=true" alt="GitHub Streak" />
-  </a>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LinJJ12&amp;theme=default&amp;utcOffset=8" alt="Productive time" />
 </p>
 
 ## 联系我
